@@ -1,0 +1,11 @@
+*Build/
+*Binaries/
+*DerivedDataCache/
+*Intermediate/
+*Saved/
+Content/StarterContent/
+.vs/BuildingEscape/v15/Solution.VC.db-wal
+.vs/BuildingEscape/v15/Solution.VC.db-shm
+.vs/BuildingEscape/v15/Solution.VC.db
+.vs/BuildingEscape/v15/Browse.VC.opendb
+.vs/BuildingEscape/v15/Browse.VC.db
