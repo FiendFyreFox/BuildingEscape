@@ -9,4 +9,8 @@ Content/StarterContent/
 .vs/BuildingEscape/v15/Solution.VC.db
 .vs/BuildingEscape/v15/Browse.VC.opendb
 .vs/BuildingEscape/v15/Browse.VC.db
+<<<<<<< HEAD
 *.ipch
+=======
+.vs/BuildingEscape/v15/ipch/AutoPCH/88039de5d0e2cdc4/POSITIONREPORT.ipch
+>>>>>>> 5cb48b82c864254f5cbcbd7f0a0103beee36aeed
